@@ -1,0 +1,188 @@
+/* Header */
+
+position: absolute;
+width: 428px;
+height: 505px;
+left: 0px;
+top: 0px;
+
+
+
+/* Header Background */
+
+position: absolute;
+width: 428px;
+height: 506px;
+left: 0px;
+top: -1px;
+
+background: url(image.png);
+
+
+/* Header Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px 24px;
+gap: 24px;
+
+position: absolute;
+width: 428px;
+height: 366px;
+left: 0px;
+top: 69px;
+
+
+
+/* IMAGINE UM LUGAR... */
+
+width: 278px;
+height: 64px;
+
+font-family: 'Luckiest Guy';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 32px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* …onde você possa pertencer a um clube escolar, um grupo de gamers, ou uma comunidade artística mundial. Onde você e alguns amigos possam passar um tempo juntos. Um lugar que torna fácil conversar todos os dias e socializar com mais frequência. */
+
+width: 381px;
+height: 132px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 381px;
+height: 122px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Button */
+
+width: 381px;
+height: 54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 381px;
+height: 54px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 28px;
+
+
+/* Baixar para Windows */
+
+position: absolute;
+width: 158px;
+height: 22px;
+left: 109.75px;
+top: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #23272A;
+
+
+
+/* Button */
+
+width: 381px;
+height: 52px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 381px;
+height: 52px;
+left: 0px;
+top: 70px;
+
+background: #23272A;
+border-radius: 28px;
+
+
+/* Abra o Discord no seu navegador */
+
+position: absolute;
+width: 248px;
+height: 22px;
+left: 65.69px;
+top: 85px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
